@@ -5,3 +5,6 @@ Full text of the paper is available [here](https://www.demographic-research.org/
 To execute the analysis, run "R/master-script.R" 
 
 If you have any questions, feel free to contact me: [hallieeilerts@gmail.com](mailto:hallieeilerts@gmail.com)
+
+
+![agepatternu5m](agepatternu5m.jpeg)

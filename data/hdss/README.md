@@ -1,0 +1,1 @@
+Data for the INDEPTH Network HDSS is available from the [iShare Data Repository](http://www.indepth-ishare.org/index.php/catalog/central). Download and save datasets in this folder.
