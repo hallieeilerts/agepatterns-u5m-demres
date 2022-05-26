@@ -1,22 +1,15 @@
 # R files to replicate the analysis
 
-1. R file that runs analysis
-	master-script.R
+**master-script.R**: master script that calls other scripts one-by-one to replicate the analysis
 
-2. R file to calculate mortality rates for DHS data
-	mortalityRates-DHS.R
+**mortalityRates-DHS.R**: calculates mortality rates for DHS data
 
-3. R file to calculate mortality rates for MICS data
-	mortalityRates-MICS.R
+**mortalityRates-MICS.R**: calculates mortality rates for MICS data
 
-4. R file to calculate mortality rates for HDSS data
-	mortalityRates-HDSS.R
+**mortalityRates-HDSS.R**: calculates mortality rates for HDSS data
 
-5. R file to calculate HDSS mortality rates for overlapping periods with DHS and MICS
-	mortalityRates-Overlapping.R
+**mortalityRates-Overlapping.R**: calculates HDSS mortality rates for overlapping periods with DHS and MICS
 
-6. R file to analyze age pattern of mortality under-5
-	analysis-AgePattern.R
+**analysis-AgePattern.R**: produces main text figures 1 and 2, appendix figures 1 and 2, appendix tables 1 and 2
 
-7. R file to analyze differences in U5M estimates from HDSS and DHS/MICS
-	analysis-Differences.R
+**analysis-Differences.R**: produces main text figure 3, appendix figures 4 and 5, appendix table 3

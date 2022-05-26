@@ -102,7 +102,7 @@ dif10yr$nqx <- factor(dif10yr$nqx, levels=c("NMR","PNMR","IMR","CMR","U5MR"),
                           labels=c("Neonatal","Postneonatal","Infant","Child","Under-five"), ordered=TRUE)
 
 ##############
-# Figure A-1
+# Figure A-4
 ##############
 
 ggplot(dif10yr) +
