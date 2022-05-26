@@ -1,0 +1,155 @@
+SurveyId,SurveyYear,CountryName,SurveyRegion,SurveyFinalRegion,SurveyResidence,HDSS,CentreId
+BF1993DHS,1993,Burkina Faso,west,boucle de mouhoun,rural,nouna,BF031
+BF1993DHS,1993,Burkina Faso,ouagadougou,centre,rural,ouagadougou,BF041
+BF1999DHS,1999,Burkina Faso,west,boucle de mouhoun,rural,nouna,BF031
+BF1999DHS,1999,Burkina Faso,ouagadougou,centre,rural,ouagadougou,BF041
+BF2003DHS,2003,Burkina Faso,centre-ouest,centre-ouest,rural,nanoro,BF021
+BF2003DHS,2003,Burkina Faso,ouagadougou,centre,rural,ouagadougou,BF041
+BF2003DHS,2003,Burkina Faso,boucle de mouhoun,boucle de mouhoun,rural,nouna,BF031
+BF2010DHS,2010,Burkina Faso,boucle de mouhoun,boucle de mouhoun,rural,nouna,BF031
+BF2010DHS,2010,Burkina Faso,centre-ouest,centre-ouest,rural,nanoro,BF021
+BF2010DHS,2010,Burkina Faso,centre,centre,rural,ouagadougou,BF041
+CI1994DHS,1994,Cote d'Ivoire,south,sud sans abidjan,rural,taabo,CI011
+CI1998DHS,1998,Cote d'Ivoire,small city,sud sans abidjan,rural,taabo,CI011
+CI2012DHS,2012,Cote d'Ivoire,sud sans abidjan,sud sans abidjan,rural,taabo,CI011
+CotedIvoire_MICS5_Datasets,2016,Cote d'Ivoire,sud sans ville d'abidjan,sud sans abidjan,rural,taabo,CI011
+ET2000DHS,2000,Ethiopia,oromiya,oromia,rural,kersa,ET041
+ET2000DHS,2000,Ethiopia,amhara,amhara,rural,dabat,ET051
+ET2000DHS,2000,Ethiopia,snnp,snnpr,rural,arba-minch,ET061
+ET2000DHS,2000,Ethiopia,tigray,tigray,rural,kilite-awlaelo,ET031
+ET2000DHS,2000,Ethiopia,snnp,snnpr,rural,gilgel-gibe,ET021
+ET2000DHS,2000,Ethiopia,harari,harari,rural,harar,ET042
+ET2005DHS,2005,Ethiopia,snnp,snnpr,rural,gilgel-gibe,ET021
+ET2005DHS,2005,Ethiopia,harari,harari,rural,harar,ET042
+ET2005DHS,2005,Ethiopia,snnp,snnpr,rural,arba-minch,ET061
+ET2005DHS,2005,Ethiopia,tigray,tigray,rural,kilite-awlaelo,ET031
+ET2005DHS,2005,Ethiopia,amhara,amhara,rural,dabat,ET051
+ET2005DHS,2005,Ethiopia,oromiya,oromia,rural,kersa,ET041
+ET2011DHS,2011,Ethiopia,oromiya,oromia,rural,kersa,ET041
+ET2011DHS,2011,Ethiopia,amhara,amhara,rural,dabat,ET051
+ET2011DHS,2011,Ethiopia,snnp,snnpr,rural,arba-minch,ET061
+ET2011DHS,2011,Ethiopia,harari,harari,rural,harar,ET042
+ET2011DHS,2011,Ethiopia,tigray,tigray,rural,kilite-awlaelo,ET031
+ET2011DHS,2011,Ethiopia,snnp,snnpr,rural,gilgel-gibe,ET021
+ET2016DHS,2016,Ethiopia,harari,harari,rural,harar,ET042
+ET2016DHS,2016,Ethiopia,amhara,amhara,rural,dabat,ET051
+ET2016DHS,2016,Ethiopia,snnpr,snnpr,rural,gilgel-gibe,ET021
+ET2016DHS,2016,Ethiopia,snnpr,snnpr,rural,arba-minch,ET061
+ET2016DHS,2016,Ethiopia,oromia,oromia,rural,kersa,ET041
+ET2016DHS,2016,Ethiopia,tigray,tigray,rural,kilite-awlaelo,ET031
+GH1993DHS,1993,Ghana,greater accra,greater accra region,rural,dodowa,GH031
+GH1993DHS,1993,Ghana,brong-ahafo,brong ahafo,rural,kintampo,GH021
+GH1993DHS,1993,Ghana,upper east,upper east region,rural,navrongo,GH011
+GH1998DHS,1998,Ghana,upper east region,upper east region,rural,navrongo,GH011
+GH1998DHS,1998,Ghana,greater accra region,greater accra region,rural,dodowa,GH031
+GH1998DHS,1998,Ghana,brong ahafo region,brong ahafo,rural,kintampo,GH021
+GH2003DHS,2003,Ghana,greater accra,greater accra region,rural,dodowa,GH031
+GH2003DHS,2003,Ghana,brong ahafo,brong ahafo,rural,kintampo,GH021
+GH2003DHS,2003,Ghana,upper east,upper east region,rural,navrongo,GH011
+GH2008DHS,2008,Ghana,upper east,upper east region,rural,navrongo,GH011
+GH2008DHS,2008,Ghana,brong ahafo,brong ahafo,rural,kintampo,GH021
+GH2008DHS,2008,Ghana,greater accra,greater accra region,rural,dodowa,GH031
+GH2014DHS,2014,Ghana,brong ahafo,brong ahafo,rural,kintampo,GH021
+GH2014DHS,2014,Ghana,upper east,upper east region,rural,navrongo,GH011
+GH2014DHS,2014,Ghana,greater accra,greater accra region,rural,dodowa,GH031
+Ghana_2011_MICS4_Datasets,2011,Ghana,upper east,upper east region,rural,navrongo,GH011
+Ghana_2011_MICS4_Datasets,2011,Ghana,brong ahafo,brong ahafo,rural,kintampo,GH021
+Ghana_2011_MICS4_Datasets,2011,Ghana,greater accra,greater accra region,rural,dodowa,GH031
+GM2013DHS,2013,Gambia,kerewan,kerewan,rural,farafenni,GM011
+KE1993DHS,1993,Kenya,nyanza,nyanza,rural,kombewa,KE051
+KE1993DHS,1993,Kenya,nairobi,nairobi,urban,nairobi,KE031
+KE1993DHS,1993,Kenya,nyanza,nyanza,rural,mbita,KE041
+KE1998DHS,1998,Kenya,nyanza,nyanza,rural,mbita,KE041
+KE1998DHS,1998,Kenya,nairobi,nairobi,urban,nairobi,KE031
+KE1998DHS,1998,Kenya,nyanza,nyanza,rural,kombewa,KE051
+KE2003DHS,2003,Kenya,nyanza,nyanza,rural,kombewa,KE051
+KE2003DHS,2003,Kenya,nairobi,nairobi,urban,nairobi,KE031
+KE2003DHS,2003,Kenya,nyanza,nyanza,rural,mbita,KE041
+KE2008DHS,2008,Kenya,nyanza,nyanza,rural,kombewa,KE051
+KE2008DHS,2008,Kenya,nairobi,nairobi,urban,nairobi,KE031
+KE2008DHS,2008,Kenya,nyanza,nyanza,rural,mbita,KE041
+KE2014DHS,2014,Kenya,nyanza,nyanza,rural,mbita,KE041
+KE2014DHS,2014,Kenya,nyanza,nyanza,rural,kombewa,KE051
+KE2014DHS,2014,Kenya,nairobi,nairobi,urban,nairobi,KE031
+Kenya-NyanzaProvince_2011_MICS_Datasets,2011,Kenya,nyanza,nyanza,rural,kombewa,KE051
+Kenya-NyanzaProvince_2011_MICS_Datasets,2011,Kenya,nyanza,nyanza,rural,mbita,KE041
+Malawi_MICS_2013-14_Datasets,2013,Malawi,karonga,northern region,rural,karonga,MW011
+MW1992DHS,1992,Malawi,northern region,northern region,rural,karonga,MW011
+MW2000DHS,2000,Malawi,north,northern region,rural,karonga,MW011
+MW2004DHS,2004,Malawi,northern,northern region,rural,karonga,MW011
+MW2010DHS,2010,Malawi,northern,northern region,rural,karonga,MW011
+MW2015DHS,2015,Malawi,northern region,northern region,rural,karonga,MW011
+MZ1997DHS,1997,Mozambique,gaza,gaza,rural,chokwe,MZ021
+MZ2003DHS,2003,Mozambique,gaza,gaza,rural,chokwe,MZ021
+MZ2011DHS,2011,Mozambique,gaza,gaza,rural,chokwe,MZ021
+NG1990DHS,1990,Nigeria,southeast,south south,urban,cross-river,NG021
+NG1990DHS,1990,Nigeria,northwest,north west,rural,nahuche,NG011
+NG2003DHS,2003,Nigeria,south south,south south,urban,cross-river,NG021
+NG2003DHS,2003,Nigeria,north west,north west,rural,nahuche,NG011
+NG2008DHS,2008,Nigeria,south south,south south,urban,cross-river,NG021
+NG2008DHS,2008,Nigeria,north west,north west,rural,nahuche,NG011
+NG2013DHS,2013,Nigeria,north west,north west,rural,nahuche,NG011
+NG2013DHS,2013,Nigeria,south south,south south,urban,cross-river,NG021
+NG2018DHS,2018,Nigeria,south south,south south,urban,cross-river,NG021
+NG2018DHS,2018,Nigeria,north west,north west,rural,nahuche,NG011
+Nigeria_MICS5_Datasets,2016,Nigeria,cross river,south south,urban,cross-river,NG021
+Nigeria_MICS5_Datasets,2016,Nigeria,zamfara,north west,rural,nahuche,NG011
+SN1993DHS,1993,Senegal,central,fatick,rural,niakhar,SN013
+SN1993DHS,1993,Senegal,south,ziguinchor,rural,mlomp,SN012
+SN1993DHS,1993,Senegal,north east,kedougou,rural,bandafassi,SN011
+SN1997DHS,1997,Senegal,north east,kedougou,rural,bandafassi,SN011
+SN1997DHS,1997,Senegal,central,fatick,rural,niakhar,SN013
+SN1997DHS,1997,Senegal,south,ziguinchor,rural,mlomp,SN012
+SN2005DHS,2005,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2005DHS,2005,Senegal,tambacounda,kedougou,rural,bandafassi,SN011
+SN2005DHS,2005,Senegal,zuguinchor,ziguinchor,rural,mlomp,SN012
+SN2010DHS,2010,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2010DHS,2010,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2010DHS,2010,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2012DHS,2012,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2012DHS,2012,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2012DHS,2012,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2014DHS,2014,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2014DHS,2014,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2014DHS,2014,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2015DHS,2015,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2015DHS,2015,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2015DHS,2015,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2016DHS,2016,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2016DHS,2016,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2016DHS,2016,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2017DHS,2017,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2017DHS,2017,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2017DHS,2017,Senegal,fatick,fatick,rural,niakhar,SN013
+SN2018DHS,2018,Senegal,ziguinchor,ziguinchor,rural,mlomp,SN012
+SN2018DHS,2018,Senegal,kedougou,kedougou,rural,bandafassi,SN011
+SN2018DHS,2018,Senegal,fatick,fatick,rural,niakhar,SN013
+TZ1992DHS,1992,Tanzania,central,morogoro,rural,ifakara,TZ011
+TZ1992DHS,1992,Tanzania,lake,mwanza,rural,magu,TZ021
+TZ1992DHS,1992,Tanzania,coastal,pwani,rural,rufiji,TZ012
+TZ1996DHS,1996,Tanzania,coast,pwani,rural,rufiji,TZ012
+TZ1996DHS,1996,Tanzania,mwanza,mwanza,rural,magu,TZ021
+TZ1996DHS,1996,Tanzania,morogoro,morogoro,rural,ifakara,TZ011
+TZ1999DHS,1999,Tanzania,coast,pwani,rural,rufiji,TZ012
+TZ1999DHS,1999,Tanzania,mwanza,mwanza,rural,magu,TZ021
+TZ1999DHS,1999,Tanzania,morogoro,morogoro,rural,ifakara,TZ011
+TZ2004DHS,2004,Tanzania,morogoro,morogoro,rural,ifakara,TZ011
+TZ2004DHS,2004,Tanzania,mwanza,mwanza,rural,magu,TZ021
+TZ2004DHS,2004,Tanzania,pwani,pwani,rural,rufiji,TZ012
+TZ2010DHS,2010,Tanzania,mwanza,mwanza,rural,magu,TZ021
+TZ2010DHS,2010,Tanzania,pwani,pwani,rural,rufiji,TZ012
+TZ2010DHS,2010,Tanzania,morogoro,morogoro,rural,ifakara,TZ011
+TZ2015DHS,2015,Tanzania,pwani,pwani,rural,rufiji,TZ012
+TZ2015DHS,2015,Tanzania,mwanza,mwanza,rural,magu,TZ021
+TZ2015DHS,2015,Tanzania,morogoro,morogoro,rural,ifakara,TZ011
+UG1995DHS,1995,Uganda,eastern,busoga,rural,iganga-mayuge,UG011
+UG2000DHS,2000,Uganda,eastern,busoga,rural,iganga-mayuge,UG011
+UG2006DHS,2006,Uganda,eastern,busoga,rural,iganga-mayuge,UG011
+UG2011DHS,2011,Uganda,eastern,busoga,rural,iganga-mayuge,UG011
+UG2016DHS,2016,Uganda,busoga,busoga,rural,iganga-mayuge,UG011
+ZA1998DHS,1998,South Africa,kwazulu natal,kwazulu-natal,rural,ahri,ZA031
+ZA1998DHS,1998,South Africa,northern province,limpopo,rural,dikgale,ZA021
+ZA1998DHS,1998,South Africa,mpumalanga,mpumalanga,rural,agincourt,ZA011
+ZA2016DHS,2016,South Africa,mpumalanga,mpumalanga,rural,agincourt,ZA011
+ZA2016DHS,2016,South Africa,limpopo,limpopo,rural,dikgale,ZA021
+ZA2016DHS,2016,South Africa,kwazulu-natal,kwazulu-natal,rural,ahri,ZA031
