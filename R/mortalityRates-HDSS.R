@@ -19,18 +19,13 @@ library(plyr)
 # Load spreadsheet with HDSS site names, centre ids, and countries
 id.hdss <- read.csv("./data/keys/id-hdss.csv", sep=",", header=TRUE)
 
-# Set working directory to location of iShare HDSS data
-setwd("./data/hdss")
 # Load in iShare csv files as list
-tbl_fread <- list.files(pattern = "*.csv") %>% map_df(~fread(.))
-l.hdss <- split( tbl_fread , tbl_fread$CentreId )
-# Reset working directory to original location
-setwd(sub('\\/data/hdss.*', '', getwd()))
+tbl_fread <- list.files("./data/hdss", pattern = "*.csv", full.names=TRUE) %>% map_df(~fread(.))
+l.hdss <- split(tbl_fread , tbl_fread$CentreId)
 
 # Define nested lapply function to perform operations on list of lists.
 nested_lapply <- function(data, fun) {
   lapply(data, function(sublist) { lapply(sublist, fun) })  }
-
 
 # Define function to construct a model matrix for aggregating mortality rates over age groups.
 .mm_aggr <- function(mf, agegr){
